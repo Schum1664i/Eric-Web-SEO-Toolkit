@@ -1,5 +1,4 @@
 # Eric-Web-SEO-Toolkit
-# Eric-Web-SEO-Toolkit
 
 ## English
 
